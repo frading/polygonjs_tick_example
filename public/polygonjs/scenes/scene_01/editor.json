@@ -1,0 +1,95 @@
+{
+	"multiple_panel": {
+		"split_ratio": 0.5,
+		"split_panel0": {
+			"split_ratio": 0.5543217692883486,
+			"split_panel0": {
+				"panelTypes": ["viewer"],
+				"currentPanelIndex": 0,
+				"panel_data": {
+					"camera": "/cameras/cameras:sopGroup/perspectiveCamera1",
+					"isViewerInitLayoutData": true,
+					"linkIndex": 1,
+					"overlayedNetwork": {
+						"allowed": false,
+						"displayed": false
+					}
+				}
+			},
+			"split_panel1": {
+				"panelTypes": ["params"],
+				"currentPanelIndex": 0,
+				"panel_data": {
+					"active_folder": null,
+					"linkIndex": 1
+				}
+			},
+			"split_mode": "vertical"
+		},
+		"split_panel1": {
+			"panelTypes": ["network", "params", "viewer"],
+			"currentPanelIndex": 0,
+			"panel_data": {
+				"camera": {
+					"position": {
+						"x": 6.784656072269321,
+						"y": 237.8322440870607
+					},
+					"zoom": 1.0222221069335933
+				},
+				"history": {
+					"2": {
+						"position": {
+							"x": 6.784656072269321,
+							"y": 237.8322440870607
+						},
+						"zoom": 1.0222221069335933
+					},
+					"36": {
+						"position": {
+							"x": 98.04347804020841,
+							"y": -175.54347550260516
+						},
+						"zoom": 1.0222221069335933
+					}
+				},
+				"paramsDisplayed": false,
+				"linkIndex": 1
+			}
+		},
+		"split_mode": "horizontal"
+	},
+	"currentNodes": ["/", "/", "/", "/", "/", "/", "/", "/"],
+	"navigationHistory": {
+		"nodePaths": {
+			"1": ["/", "/geo1", "/"],
+			"2": ["/"],
+			"3": ["/"],
+			"4": ["/"],
+			"5": ["/"],
+			"6": ["/"],
+			"7": ["/"],
+			"8": ["/"]
+		},
+		"index": {
+			"1": 2,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0
+		}
+	},
+	"fullscreenPanelId": null,
+	"saveOptions": {
+		"createExport": false,
+		"checkRemoteAssetsUse": true,
+		"minimizeFilesCount": false,
+		"compressJs": true,
+		"createZip": false,
+		"runPostExportCommand": false
+	},
+	"paramsModal": []
+}
